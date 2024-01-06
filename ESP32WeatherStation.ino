@@ -11,7 +11,7 @@ const char* password = "YOUR_WIFI_PASSWORD"; // Replace with your WiFi password
 
 // OpenWeatherMap API key and city ID
 const char* apiKey = "YOUR_API_KEY"; // Replace with your OpenWeatherMap API key
-const int cityID = 5911592;          // Replace with your city ID
+const int cityID = *****;          // Replace with your city ID
 
 // TFT display pins
 #define TFT_CS   5
